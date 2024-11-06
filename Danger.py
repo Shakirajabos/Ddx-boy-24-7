@@ -19,11 +19,11 @@ import psutil
 loop = asyncio.new_event_loop()
 asyncio.set_event_loop(loop)
 
-TOKEN = '7906060296:AAET7ic1V-MEWeBINdmKxeTvLCumt1qUp94'
+TOKEN = '7245312894:AAHwIdWn7BK6qgkKIyxz4Hkk91JE8n-Vk_w'
 MONGO_URI = 'mongodb+srv://Dangerboyop:FJgjOtOZ2z8kUptY@dangerboyop.nyzgq.mongodb.net/'
-FORWARD_CHANNEL_ID = -1002466138583
-CHANNEL_ID = -1002466138583
-error_channel_id = -1002466138583
+FORWARD_CHANNEL_ID = -1002157064117
+CHANNEL_ID = -1002157064117
+error_channel_id = -1002157064117
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
