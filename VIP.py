@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext
 from telegram.error import TelegramError
 import time
 
-TELEGRAM_BOT_TOKEN = '7906060296:AAFyPgRizifxj9Kg9vWkvb0Daoj1U5voJ3o'
+TELEGRAM_BOT_TOKEN = '7245312894:AAHwIdWn7BK6qgkKIyxz4Hkk91JE8n-Vk_w'
 ALLOWED_USER_ID = 6484008134  
 bot_access_free = False  # Set to False to restrict access to approved users
 
